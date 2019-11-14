@@ -2,6 +2,15 @@
 
 Docker image with [flake8](http://flake8.pycqa.org/en/latest/) python linter.
 
+### Fork notes
+This repository was forked with the intent of -
+
+1. [ ] add an autobuild for dockerhub/gitlab-ci
+2. [x] pin the python image to version 3.8.0
+3. [x] pin the flake version to 3.7.9
+
+For now the image can be found at https://hub.docker.com/r/d3banjan/flake8
+
 
 ### Usage
 
